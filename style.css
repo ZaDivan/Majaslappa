@@ -1,12 +1,37 @@
 #logo{
-    font-size: 30px;
+    height: 2px;
+    font-size: 50px;
     text-align: center;
-    color:rgb(153, 125, 170);
- }
+    color:rgb(255, 255, 255);
+    opacity: .8;
+}
+
 nav{
+    opacity: .8;
+}
+li{
+    display: inline;
+}
+#info{
+    color: rgb(255, 255, 255);
+    opacity: .8;
+}
+li a {
     display: block;
- }
+    color: rgb(255, 255, 255);
+    padding: 8px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: rgb(152, 129, 171);
+    color: white;
+}
 body {
-    background-color: lightblue;
+    background-image: url('wp4579128.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: .8;
   }
   
