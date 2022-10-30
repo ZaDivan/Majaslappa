@@ -1,5 +1,5 @@
 #logo{
-    height: 2px;
+    height: 10px;
     font-size: 50px;
     text-align: center;
     color:rgb(255, 255, 255);
@@ -10,17 +10,30 @@ nav{
     opacity: .8;
 }
 li{
-    display: inline;
+    display:block;
+	width:450px;
+	float:left;
+    text-align: center;
+    background-color: blueviolet;
 }
 #info{
     color: rgb(255, 255, 255);
     opacity: .8;
+    height: 8px;
+    font-size: 40px;
+    text-align: left;
+    color:rgb(255, 255, 255);
+    opacity: .8;
+}
+p{
+    line-height: 4;
 }
 li a {
-    display: block;
     color: rgb(255, 255, 255);
     padding: 8px 16px;
     text-decoration: none;
+    display:block;
+	padding:3px;
 }
   
 li a:hover {
@@ -33,5 +46,6 @@ body {
     background-attachment: fixed;
     background-size: cover;
     opacity: .8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
   }
   
