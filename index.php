@@ -21,7 +21,6 @@ CloseCon($conn);
     <li id="navigating"><a href="about.php">ABOUT</a></li>
     <li id="navigating"><a href="contact.php">CONTACT</a></li>
     <li id="navigating"><a href="https://github.com/ZaDivan/Majaslappa" target="_blank".>GITHUB</a></li>
-    <li id="navigating"><a href="database.php">DATABASE</a></li>
 </nav>    
     <h1 id="logo">Ivans Sadovnikovs</h1>
 </body>

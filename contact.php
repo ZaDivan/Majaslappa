@@ -13,7 +13,6 @@
     <li id="navigating"><a href="about.php">ABOUT</a></li>
     <li id="navigating"><a href="contact.php">CONTACT</a></li>
     <li id="navigating"><a href="https://github.com/ZaDivan/Majaslappa" target="_blank".>GITHUB</a></li>
-    <li id="navigating"><a href="database.php">DATABASE</a></li>
 </nav>       
 <h1 id="logo">Contact </h1>
 <form method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
